@@ -107,7 +107,7 @@ pyreadline3==3.5.4
 python-dateutil==2.9.0.post0
 python-dotenv==1.1.1
 python-iso639==2025.2.18
-python-magic
+python-magic==0.4.27; platform_system != "Windows"
 python-multipart==0.0.20
 python-oxmsg==0.0.2
 python-pptx==1.0.2
@@ -151,5 +151,6 @@ xlsxwriter==3.2.5
 yarl==1.20.1
 zipp==3.23.0
 zstandard==0.23.0
+
 
 
