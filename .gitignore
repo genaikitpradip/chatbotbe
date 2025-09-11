@@ -1,0 +1,11 @@
+__pycache__/
+
+# ---- Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+
+# ---- Secrets & env files
+.env
